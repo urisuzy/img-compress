@@ -1,24 +1,16 @@
-# img-compress
+# Image Compressor
 
-## Project setup
-```
-npm install
-```
+Image compressor adalah aplikasi sederhana untuk mengkompress gambar agar ukuran gambar tersebut menjadi lebih ringan
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# BuildWith
 
-### Compiles and minifies for production
-```
-npm run build
-```
+ - [CompressorJS](https://github.com/fengyuanchen/compressorjs)
+ - [Vuejs](https://github.com/vuejs/vue)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Demo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ - [Website Demo](https://urisuzy.github.io/img-compress/)
+
+## End
+
+Project ini digunakan untuk memenuhi tugas Multimedia
